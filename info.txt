@@ -6,5 +6,13 @@ git revision
 // git commit -m "added"
 // git stash / git stash pop  (remove and retrive local changes)
 // git log
+// git show HEAD
+
+// git branch 
+// git branch A 
+// git checkout A 
+// git branch -d branch
+
+
 
 
