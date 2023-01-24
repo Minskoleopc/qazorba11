@@ -1,0 +1,10 @@
+git revision
+// git init 
+// git status   ---- check which file has changes and which file is being tracked
+(local ----- staging ----- local ------ remote repo)
+// git add script.js
+// git commit -m "added"
+// git stash / git stash pop  (remove and retrive local changes)
+// git log
+
+
