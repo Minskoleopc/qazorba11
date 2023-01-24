@@ -6,4 +6,6 @@ console.log("Changes")
 
 console.log("Changes has submitted")
 
-consle.log('chanes on A addedd ddddddddddddddddddddddddd')
+console.log('chanes on A addedd ddddddddddddddddddddddddddddd')
+console.log('local changes')
+console.log('local changes on 12')
