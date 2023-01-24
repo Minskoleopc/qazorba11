@@ -13,6 +13,10 @@ git revision
 // git checkout A 
 // git branch -d branch
 
+// git reset HEAD filename 
+// git checkout HEAD filename 
+// git reset 7SH keys
+
 
 
 
